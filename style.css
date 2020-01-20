@@ -4,5 +4,11 @@ body {
   margin: 0 auto;;
 }
 header {
-  margin: auto;
+  margin: 0 auto;
+}
+
+a {
+  padding: 0 10px;
+  background-color: grey;
+
 }
