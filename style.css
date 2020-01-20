@@ -13,3 +13,8 @@ nav a {
   width: 800px;
   margin: auto;
 }
+
+#details {
+  display: block;
+  float: left;
+}
