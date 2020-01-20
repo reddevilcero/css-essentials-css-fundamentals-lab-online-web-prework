@@ -21,5 +21,6 @@ nav a {
 #details div {
   float: left;
   margin: auto;
-  width: 25%
+  width: 25%;
+  background-color: red;
 }
